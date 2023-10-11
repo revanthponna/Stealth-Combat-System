@@ -1,4 +1,5 @@
 # Stealth-Combat-System
+![](https://github.com/revanthponna/Stealth-Combat-System/blob/master/trim1gif.gif)
 - Designed and implemented a dynamic and immersive stealth combat system in Unreal Engine using Blueprints.
 - Created separate player movement states such as jog, crouch, and prone, each with corresponding animations.
 - I developed sophisticated enemy AI with precise patrol path following, enhancing gameplay realism and challenge by specifying path points for AI movement. The enemies can either end their patrol, continue looping on the same path or patrol back in reverse.
